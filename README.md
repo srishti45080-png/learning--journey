@@ -1,2 +1,2 @@
-# learning--journey
+# learning-journey
 cse (ai -ml)
